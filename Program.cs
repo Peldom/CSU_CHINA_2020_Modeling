@@ -186,7 +186,7 @@ namespace Alga_Dynamics
     {
         public static void WriteCSV(double[] shell_aq_num, int shell_num)
         {
-            string path = @"D:\Remain\iGEM\model\种群\CSVinfoalltest.csv";
+            string path = @"D:\CSVinfoalltest.csv";
             if (!File.Exists(path)) File.Create(path).Close();
             StreamWriter sw = new StreamWriter(path, true, Encoding.UTF8);
             for (int i = 0; i < shell_num; i++)
