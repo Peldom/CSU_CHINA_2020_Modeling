@@ -5,4 +5,4 @@ Integrated with physical simulation, we extended model level beyond biochemical 
 ## Introducing Safety Model 
 The effectiveness of our *Suicide Gene System* to kill detached cells from our device is proven through this model. Implemented with DDE(delay differential equations) describing the delays in genetic expression and SDE(stochastic differential equation) describing the expression noise, our model firmly proved our system’s ability to maintain the sustainability of regular cells and erase detached cells as expected. 
 
-author: Kelvin Zheng Li, Sean Peldom Zhang
+intro author: Kelvin Zheng Li, Sean Peldom Zhang
